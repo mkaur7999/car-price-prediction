@@ -6,32 +6,21 @@ cycler==0.10.0
 entrypoints==0.3
 Flask==2.0.1
 idna==3.2
-ipykernel @ file:///C:/ci/ipykernel_1629995226541/work/dist/ipykernel-6.2.0-py3-none-any.whl
-ipython @ file:///C:/ci/ipython_1628244014088/work
 itsdangerous==2.0.1
 jedi @ file:///C:/ci/jedi_1611315820849/work
 Jinja2==2.11.2
 joblib==1.0.1
 jsonify==0.5
-jsonschema @ file:///Users/ktietz/demo/mc3/conda-bld/jsonschema_1630511932244/work
 jupyter==1.0.0
 kiwisolver==1.3.2
 MarkupSafe==1.1.1
 matplotlib==3.4.3
-mistune @ file:///C:/ci/mistune_1594373272338/work
-nbconvert @ file:///C:/ci/nbconvert_1624479160228/work
-notebook @ file:///C:/ci/notebook_1629205907554/work
 numpy==1.21.2
 pandas==1.3.2
-pandocfilters @ file:///C:/ci/pandocfilters_1605102427207/work
 Pillow==8.3.2
-prompt-toolkit @ file:///Users/ktietz/demo/mc3/conda-bld/prompt-toolkit_1629146841569/work
-pyparsing @ file:///home/linux1/recipes/ci/pyparsing_1610983426697/work
-pyrsistent @ file:///C:/ci/pyrsistent_1600123688363/work
 pytz==2021.1
 pywin32==228
 pywinpty==0.5.7
-pyzmq @ file:///C:/ci/pyzmq_1628276101517/work
 requests==2.26.0
 scikit-learn==0.24.2
 scipy==1.7.1
