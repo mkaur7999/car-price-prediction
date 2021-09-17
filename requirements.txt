@@ -7,7 +7,6 @@ entrypoints==0.3
 Flask==2.0.1
 idna==3.2
 itsdangerous==2.0.1
-jedi @ file:///C:/ci/jedi_1611315820849/work
 Jinja2==2.11.2
 joblib==1.0.1
 jsonify==0.5
