@@ -14,7 +14,7 @@ This repository consists of files required for end to end implementation and dep
 
 ## App Link
 If you want to view the deployed model, click on the following link:<br />
-[https://carpricepredict01.herokuapp.com/](https://carpricepredict01.herokuapp.com/)
+[https://manpreet101803562-pricepredict.herokuapp.com/](https://manpreet101803562-pricepredict.herokuapp.com/)
 
 ## Objective
 To develop a efficient and effective model which predicts the price of a used car according to user’s inputs.
@@ -30,7 +30,7 @@ pip install -r requirements.txt
 ```
 
 ## Flowchart of Methodology
-![](template/Flowchart of Methodology.png)
+![Flowchart of Methodology](https://github.com/mkaur7999/car-price-prediction/blob/main/templates/Flowchart%20of%20Methodology.png)
 
 ## Deployement on Heroku
 Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually to deploy this project.
