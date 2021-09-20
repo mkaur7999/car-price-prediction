@@ -30,7 +30,7 @@ pip install -r requirements.txt
 ```
 
 ## Flowchart of Methodology
-![](Flowchart of Methodoly.png)
+![](template/Flowchart of Methodology.png)
 
 ## Deployement on Heroku
 Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually to deploy this project.
