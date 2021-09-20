@@ -9,7 +9,7 @@ This repository consists of files required for end to end implementation and dep
   * [About the App](#about-the-app)
   * [Deployement on Heroku](#deployement-on-heroku)
   * [Technologies Used](#technologies-used)
-  * [Bug / Feature Request](#bug---feature-request)
+  
 
 
 ## App Link
