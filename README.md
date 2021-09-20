@@ -29,6 +29,9 @@ The code is written in Python 3.6.10. If you don't have Python installed, you ca
 pip install -r requirements.txt
 ```
 
+## Flowchart of Methodology
+![](Flowchart of Methodoly.png)
+
 ## Deployement on Heroku
 Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually to deploy this project.
 
